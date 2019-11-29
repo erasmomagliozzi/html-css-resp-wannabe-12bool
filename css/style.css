@@ -1,0 +1,44 @@
+p {
+  margin: 10px;
+}
+h1 {
+  margin: 15px;
+}
+h3{
+  margin: 15px;
+}
+.image_maps {
+  width: 200px;
+}
+.image_screen {
+  width: 330px;
+}
+.image_search {
+  width: 200px;
+}
+.image_letter {
+  width: 200px;
+}
+.image_male{
+  width: 200px;
+}
+.image_profile {
+  background-color: #428BCA;
+  border-radius: 100%;
+  padding: 30px;
+  margin-top: 50px;
+}
+.image_secure {
+  width: 300px;
+  background-color: #428BCA;
+  border-radius: 100%;
+  padding:40px;
+  margin-top: 50px;
+}
+.image_flex {
+  width: 300px;
+  background-color: #428BCA;
+  border-radius: 100%;
+  padding:40px;
+  margin-top: 50px;
+}
